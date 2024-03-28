@@ -7,10 +7,20 @@ Form the lines
 Shield by shield
 Side by side
 We're marching into destiny
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+-----------------------------------
+=======
+>>>>>>> 64d9211baee6f0340fac0deb053457d1cf93a301
 
 March as one
 Don't look back
 Oden's sons
 Attack!
+<<<<<<< HEAD
 
 for tag only
+=======
+>>>>>>> feature
+>>>>>>> 64d9211baee6f0340fac0deb053457d1cf93a301
